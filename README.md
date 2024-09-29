@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on new coding learning
 - 📫 How to reach me skshi.thakur@gmail.com
-- 😄 Pronouns: Sakshi
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Professionaly an HR
 
 <!---
